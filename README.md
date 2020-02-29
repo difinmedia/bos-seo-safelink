@@ -1,0 +1,1 @@
+# bos-seo-safelink
